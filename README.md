@@ -8,4 +8,4 @@ Ejemplo de login, probablemente sera el avance para nuestra app en el curso de A
 - Asegurarse de tener instalado el SDK 34
 - disfrute
 
-![Screenshot_20241001_001841](https://github.com/user-attachments/assets/89ab1676-9ac9-4e93-8924-fa02a8dd2c77)
+![login_app](https://github.com/user-attachments/assets/a3bb8750-1d76-4f0b-95c1-972b9653f1e0)
